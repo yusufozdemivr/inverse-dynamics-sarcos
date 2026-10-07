@@ -1,0 +1,17 @@
+# Ortam
+.venv/
+__pycache__/
+*.pyc
+
+# Veri ve çıktılar
+data/
+*.parquet
+*.arff
+
+# Not defteri ve IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Diğer
+.DS_Store
